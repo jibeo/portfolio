@@ -1,63 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//jibeo-portfolio.local/html/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//newsite.jibeo.fr/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://jibeo-portfolio.local/html/html/</loc>
+		<loc>https://newsite.jibeo.fr/</loc>
 		<lastmod>2021-02-10T12:53:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://jibeo-portfolio.local/html/html/sample-page/</loc>
+		<loc>https://newsite.jibeo.fr/sample-page/</loc>
 		<lastmod>2021-01-08T12:42:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://jibeo-portfolio.local/html/html/about/</loc>
+		<loc>https://newsite.jibeo.fr/about/</loc>
 		<lastmod>2021-01-11T17:48:40+00:00</lastmod>
 		<image:image>
-			<image:loc>http://jibeo-portfolio.local/html/html/wp-content/uploads/2020/11/portfolio-2.jpg</image:loc>
+			<image:loc>https://newsite.jibeo.fr/wp-content/uploads/2020/11/portfolio-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://jibeo-portfolio.local/html/html/wp-content/uploads/2020/11/samplelogo.svg</image:loc>
+			<image:loc>https://newsite.jibeo.fr/wp-content/uploads/2020/11/samplelogo.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://jibeo-portfolio.local/html/html/wp-content/uploads/2020/11/samplelogo.svg</image:loc>
+			<image:loc>https://newsite.jibeo.fr/wp-content/uploads/2020/11/samplelogo.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://jibeo-portfolio.local/html/html/wp-content/uploads/2020/11/samplelogo.svg</image:loc>
+			<image:loc>https://newsite.jibeo.fr/wp-content/uploads/2020/11/samplelogo.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://jibeo-portfolio.local/html/html/wp-content/uploads/2020/11/samplelogo.svg</image:loc>
+			<image:loc>https://newsite.jibeo.fr/wp-content/uploads/2020/11/samplelogo.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://jibeo-portfolio.local/html/html/wp-content/uploads/2020/11/lh448yp0t2qQ-unsplash.jpg</image:loc>
+			<image:loc>https://newsite.jibeo.fr/wp-content/uploads/2020/11/lh448yp0t2qQ-unsplash.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://jibeo-portfolio.local/html/html/portfolio-single-template/</loc>
+		<loc>https://newsite.jibeo.fr/portfolio-single-template/</loc>
 		<lastmod>2021-01-11T17:48:40+00:00</lastmod>
 		<image:image>
-			<image:loc>http://jibeo-portfolio.local/html/html/wp-content/uploads/2020/11/walling-52H5Nfi5WiE-unsplash.jpg</image:loc>
+			<image:loc>https://newsite.jibeo.fr/wp-content/uploads/2020/11/walling-52H5Nfi5WiE-unsplash.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://jibeo-portfolio.local/html/html/wp-content/uploads/2020/11/karl-pawlowicz-QUHuwyNgSA0-unsplash.jpg</image:loc>
+			<image:loc>https://newsite.jibeo.fr/wp-content/uploads/2020/11/karl-pawlowicz-QUHuwyNgSA0-unsplash.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://jibeo-portfolio.local/html/html/wp-content/uploads/2020/11/charles-deluvio-ZQ1TGdfXOkE-unsplash.jpg</image:loc>
+			<image:loc>https://newsite.jibeo.fr/wp-content/uploads/2020/11/charles-deluvio-ZQ1TGdfXOkE-unsplash.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://jibeo-portfolio.local/html/html/wp-content/uploads/2020/11/balazs-ketyi-_x335IZXxfc-unsplash.jpg</image:loc>
+			<image:loc>https://newsite.jibeo.fr/wp-content/uploads/2020/11/balazs-ketyi-_x335IZXxfc-unsplash.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://jibeo-portfolio.local/html/html/projets/</loc>
+		<loc>https://newsite.jibeo.fr/projets/</loc>
 		<lastmod>2021-02-09T14:46:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://jibeo-portfolio.local/html/html/portfolio-4/</loc>
+		<loc>https://newsite.jibeo.fr/portfolio-4/</loc>
 		<lastmod>2021-02-12T16:44:41+00:00</lastmod>
 		<image:image>
-			<image:loc>http://jibeo-portfolio.local/html/html/wp-content/uploads/2020/11/test-1.jpg</image:loc>
+			<image:loc>https://newsite.jibeo.fr/wp-content/uploads/2020/11/test-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://jibeo-portfolio.local/html/html/wp-content/uploads/2020/11/test-2.jpg</image:loc>
+			<image:loc>https://newsite.jibeo.fr/wp-content/uploads/2020/11/test-2.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
