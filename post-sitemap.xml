@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//newsite.jibeo.fr/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://newsite.jibeo.fr/blog/</loc>
+		<loc>http://newsite.jibeo.fr/blog/</loc>
 		<lastmod>2021-01-16T20:23:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://newsite.jibeo.fr/hello-world/</loc>
+		<loc>http://newsite.jibeo.fr/hello-world/</loc>
 		<lastmod>2021-01-08T12:42:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://newsite.jibeo.fr/how-local-seo-helps-grow-your-business/</loc>
+		<loc>http://newsite.jibeo.fr/how-local-seo-helps-grow-your-business/</loc>
 		<lastmod>2021-01-16T19:13:37+00:00</lastmod>
 		<image:image>
-			<image:loc>https://newsite.jibeo.fr/wp-content/uploads/2021/01/post-two.jpg</image:loc>
+			<image:loc>http://newsite.jibeo.fr/wp-content/uploads/2021/01/post-two.jpg</image:loc>
 			<image:title><![CDATA[post-two]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://newsite.jibeo.fr/the-importance-of-a-solid-keyword-strategy/</loc>
+		<loc>http://newsite.jibeo.fr/the-importance-of-a-solid-keyword-strategy/</loc>
 		<lastmod>2021-01-16T20:23:16+00:00</lastmod>
 		<image:image>
-			<image:loc>https://newsite.jibeo.fr/wp-content/uploads/2021/01/post-one.jpg</image:loc>
+			<image:loc>http://newsite.jibeo.fr/wp-content/uploads/2021/01/post-one.jpg</image:loc>
 			<image:title><![CDATA[post-one]]></image:title>
 		</image:image>
 	</url>
